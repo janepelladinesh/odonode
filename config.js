@@ -1,5 +1,5 @@
 
-var mongoHost = '172.30.169.192'
+var mongoHost = '172.30.245.117'
 var mongoPort = 27017
 console.log("mongohost:port ="+mongoHost+":"+mongoPort);
 module.exports = {
