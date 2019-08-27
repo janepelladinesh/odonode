@@ -10,7 +10,7 @@ var mongoose    = require('mongoose');
 
 var jwt    = require('jsonwebtoken'); 
 var config = require('./tests/config'); 
-var User   = require('./app/models/user'); 
+var User   = require('./tests/user'); 
 var cors = require('cors');
 
 request = require('request-json');
